@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScroller.Vsix", "SideScroller.Vsix\SideScroller.Vsix.csproj", "{AFA27596-E9D0-4188-AD88-27C4904250FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0038DB7F-9030-4E4B-BFAF-BDE31C170541}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA27596-E9D0-4188-AD88-27C4904250FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA27596-E9D0-4188-AD88-27C4904250FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA27596-E9D0-4188-AD88-27C4904250FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA27596-E9D0-4188-AD88-27C4904250FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99C7DE0B-FA4E-47CE-9FF2-4CEB9654D41C}
+	EndGlobalSection
+EndGlobal

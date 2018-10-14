@@ -1,0 +1,10 @@
+Debug/
+Release/
+bin/
+obj/
+*.suo
+*.user
+*.DotSettings.user
+*.nupkg
+packages/
+.vs
