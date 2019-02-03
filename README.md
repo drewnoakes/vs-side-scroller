@@ -2,7 +2,7 @@
 
 # Side Scroller
 
-Enables horizontal scrolling by holding down the <kbd>Shift</kbd> key and spinning the mouse wheel in Visual Studio 2017.
+Enables horizontal scrolling by holding down the <kbd>Shift</kbd> key and spinning the mouse wheel in Visual Studio (2017, 2019 and later).
 
 This feature is available in many other programs. Once you're used to it, it is sorely missed.
 
