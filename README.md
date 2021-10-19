@@ -6,7 +6,7 @@
 [![Visual Studio Marketplace Rating](http://vsmarketplacebadge.apphb.com/rating-star/drewnoakes.SideScroller.svg)](https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller)
 [![Visual Studio Marketplace Downloads](http://vsmarketplacebadge.apphb.com/downloads-short/drewnoakes.SideScroller.svg)](https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller)
 
-Enables horizontal scrolling by holding down the <kbd>Shift</kbd> key and spinning the mouse wheel in Visual Studio (2017, 2019 and later).
+Enables horizontal scrolling by holding down the <kbd>Shift</kbd> key and spinning the mouse wheel in Visual Studio (2017, 2019 and 2022).
 
 This feature is available in many other programs. Once you're used to it, it is sorely missed.
 
@@ -18,4 +18,4 @@ https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller
 
 # Credits
 
-Icon by Juraj Sedlák from the [Noun Project](https://thenounproject.com/term/horizontal-scroll/1028300/), edited to be more VS-like in InkScape.
+Icon by Juraj Sedlák from the [Noun Project](https://thenounproject.com/icon/1028300/), edited to be more VS-like in [InkScape](https://inkscape.org/).
