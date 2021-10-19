@@ -18,4 +18,4 @@ https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller
 
 # Credits
 
-Icon by Juraj Sedlák from the [Noun Project](https://thenounproject.com/term/horizontal-scroll/1028300/), edited to be more VS-like in InkScape.
+Icon by Juraj Sedlák from the [Noun Project](https://thenounproject.com/icon/1028300/), edited to be more VS-like in [InkScape](https://inkscape.org/).
